@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sun.xml.bind:jaxb-core:3.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../grade/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-core/3.0.2/e64ef996775103ab051b2ae85d13eb48a48054c2/jaxb-core-3.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../grade/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-core/3.0.2/dc6e97320c61fbc15e5a37d664fa7631c0cc7e4a/jaxb-core-3.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

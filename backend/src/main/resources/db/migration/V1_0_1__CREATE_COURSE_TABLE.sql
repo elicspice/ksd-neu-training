@@ -1,4 +1,4 @@
-create table user_access.user
+/*create table user_access.user
 (
     id           bigserial    not null,
     username     varchar(20)  not null,
@@ -12,3 +12,6 @@ create table user_access.user
     constraint user_pk PRIMARY KEY (id),
     constraint username_unique unique (username)
 );
+
+
+ */

@@ -33,6 +33,11 @@ export class UserListComponent implements OnInit {
   viewUser(id: number) {
     this._router.navigate(['/admin/user', id])
   }
+  /*EditUser
+   */
+  EditUser(id:number){
+    this._router.navigate(['/admin/user', id])
+  }
 
   deleteUser(id: number, event: any) {
     this._confirmationService.confirm({
